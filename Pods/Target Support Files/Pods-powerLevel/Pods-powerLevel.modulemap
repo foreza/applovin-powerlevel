@@ -1,0 +1,6 @@
+framework module Pods_powerLevel {
+  umbrella header "Pods-powerLevel-umbrella.h"
+
+  export *
+  module * { export * }
+}
